@@ -11,6 +11,11 @@ vi:
       about: "Thông tin"
       contact: "Liên hệ"
       signup: "Đăng kí?"
+      login: "Đăng nhập"
+      account: "Tài khoản"
+      profile: "Thông tin tài khoản"
+      setting: "Cài đặt"
+      logout: "Đăng xuất"
     footer:
       contact: "Liên hệ"
       about: "Thông tin"
@@ -39,3 +44,13 @@ vi:
   shared:
     error_messages:
       content: "Biểu mẫu có chứa %{count} lỗi" 
+  sessions:
+    new:
+      title: "Đăng nhập"
+      lg_email: "Email"
+      lg_password: "Mật khẩu"
+      remember_me: "Ghi nhớ tôi trên máy tính này"
+      new_user: "Người dùng mới?"
+      signup_href: "Đăng kí ngay!"
+    create:
+      flash_danger_sessions: "Người dùng không tồn tại"

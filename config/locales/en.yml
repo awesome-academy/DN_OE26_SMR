@@ -4,7 +4,7 @@ en:
   hello: "Hello world"
   layouts:
     application:
-      title: "Manage Hotel"
+      title_page: "Manage Hotel"
     header:
       logo: "Roster Hotel"
       logo_text: "logo"
@@ -12,6 +12,11 @@ en:
       about: "About"
       contact: "Contact"
       signup: "Sign up?"
+      login: "Login"
+      account: "Account"
+      profile: "Profile"
+      setting: "Settings"
+      logout: "Log out"
     footer:
       contact: "Contact"
       about: "About"
@@ -40,4 +45,14 @@ en:
   shared:
     error_messages:
       content: "The form contains %{count} error" 
+  sessions:
+    new:
+      title: "Login"
+      lg_email: "Email"
+      lg_password: "Password"
+      remember_me: "Remember me on this computer"
+      new_user: "New user?"
+      signup_href: "Sign up now!"
+    create:
+      flash_danger_sessions: "This users does not exist"
 
