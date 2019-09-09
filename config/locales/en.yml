@@ -1,4 +1,27 @@
 en:  
+  english: "English"
+  vietnam: "Vietnamese"
   hello: "Hello world"
   layouts:
-    title: "Manage Hotel"
+    application:
+      title: "Manage Hotel"
+    header:
+      logo: "Roster Hotel"
+      logo_text: "logo"
+      home: "Home"
+      about: "About"
+      contact: "Contact"
+    footer:
+      contact: "Contact"
+      about: "About"
+  static_pages:
+    home:
+      title: "Home"
+      home_pages: "Wellcome to Roster Hotel"
+    about:
+      title: "About"
+      about_pages: "About us"
+    contact:
+      title: "Contact"
+      contact_pages: "Contact for me"
+
