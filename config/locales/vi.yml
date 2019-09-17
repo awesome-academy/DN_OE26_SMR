@@ -1,3 +1,25 @@
 vi:
+  english: "Tiếng anh"
+  vietnam: "Tiếng Việt"
   layouts:
-    title: "Web quản lí khách sạn"
+    application:
+      title: "Manage Hotel"
+    header:
+      logo: "Roster Hotel"
+      logo_text: "logo"
+      home: "Trang chủ"
+      about: "Thông tin"
+      contact: "Liên hệ"
+    footer:
+      contact: "Liên hệ"
+      about: "Thông tin"
+  static_pages:
+    home:
+      title: "Trang chủ"
+      home_pages: "Chào mừng bạn đến với Roster Hotel"
+    about:
+      title: "Thông tin"
+      about_pages: "Một vài thông tin về KS"
+    contact:
+      title: "Liên hệ"
+      contact_pages: "Liên hệ cho tôi!!!"
