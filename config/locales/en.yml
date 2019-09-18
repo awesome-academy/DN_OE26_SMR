@@ -11,6 +11,7 @@ en:
       home: "Home"
       about: "About"
       contact: "Contact"
+      signup: "Sign up?"
     footer:
       contact: "Contact"
       about: "About"
@@ -24,4 +25,19 @@ en:
     contact:
       title: "Contact"
       contact_pages: "Contact for me"
+  users:
+    new:
+      title: "Sign up"
+      name: "Name"
+      email: "Email"
+      password: "Password"
+      password_confirmation: "Password confirmation"
+      submit: "Create my account"
+    show:
+      flash_danger: "This users does not exist"
+    create:
+      flash_success: "Register successfully!"
+  shared:
+    error_messages:
+      content: "The form contains %{count} error" 
 

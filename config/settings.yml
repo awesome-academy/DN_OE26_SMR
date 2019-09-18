@@ -1,2 +1,7 @@
 locale: "en"
 localevi: "vi"
+validates:
+  max_length_name: 50
+  max_length_email: 255
+  min_length_password: 6
+  max_length_micropost: 140

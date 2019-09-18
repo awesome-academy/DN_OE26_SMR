@@ -10,6 +10,7 @@ vi:
       home: "Trang chủ"
       about: "Thông tin"
       contact: "Liên hệ"
+      signup: "Đăng kí?"
     footer:
       contact: "Liên hệ"
       about: "Thông tin"
@@ -23,3 +24,18 @@ vi:
     contact:
       title: "Liên hệ"
       contact_pages: "Liên hệ cho tôi!!!"
+  users:
+    new:
+      title: "Đăng kí"
+      name: "Họ tên"
+      email: "Email"
+      password: "Mật khẩu"
+      password_confirmation: "Nhập lại mật khẩu"
+      submit: "Đăng kí tài khoản"
+    show:
+      flash_danger: "Người dùng không tồn tại"
+    create:
+      flash_success: "Đăng kí thành công"
+  shared:
+    error_messages:
+      content: "Biểu mẫu có chứa %{count} lỗi" 
